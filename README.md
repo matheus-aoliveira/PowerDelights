@@ -1,6 +1,8 @@
 # PSGallery: Curated PowerShell Delights
 Curated list of delightful PowerShell modules and resources 
 
+# :construction: Under Construction :construction:
+
 ### Welcome to the Curated PowerShell Delights! 🚀 ### 
 
 This repository is a comprehensive collection of delightful PowerShell modules and resources that will supercharge your scripting and automation endeavors. Whether you're a beginner or an experienced PowerShell user, this curated list is here to provide you with a handpicked selection of high-quality modules, tools, tutorials, and community-driven projects.
